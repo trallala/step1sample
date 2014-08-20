@@ -1,5 +1,5 @@
 body {
-  background-color: #222;
+  background-color: #87c540;
 }
 
 div#main {
@@ -11,6 +11,6 @@ div#main {
 
 h2#result {
   border: dashed 4px #AAA;
-  background-color: #FFF;
+  background-color: #87c540;
   padding: 10px 20px;
 }
